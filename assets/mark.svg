@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" role="img" aria-label="Querência">
-  <circle cx="60" cy="60" r="17.5" fill="#3F4433"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" role="img" aria-label="Querncia">
+  <path fill="#C8C2B5" d="M 60 42.5 A 17.5 17.5 0 1 0 60 77.5 A 17.5 17.5 0 1 0 60 42.5 Z"/>
   <path d="M 73.016 89.233 A 32 32 0 1 1 89.233 73.016" stroke="#C8C2B5" stroke-width="9" stroke-linecap="round"/>
   <line x1="79.092" y1="79.092" x2="93.234" y2="93.234" stroke="#C8C2B5" stroke-width="9" stroke-linecap="round"/>
 </svg>
